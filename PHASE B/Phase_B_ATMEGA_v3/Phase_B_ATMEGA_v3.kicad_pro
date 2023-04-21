@@ -446,7 +446,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../DANYS_Kitchen_TimerV3.step",
+      "step": "step/DANYS_Kitchen_TimerV3_With_MountingHoles.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
